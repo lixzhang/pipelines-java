@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/team-sharat/crowd-counting/_apis/build/status/lixzhang.pipelines-java?branchName=master)](https://dev.azure.com/team-sharat/crowd-counting/_build/latest?definitionId=37&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
